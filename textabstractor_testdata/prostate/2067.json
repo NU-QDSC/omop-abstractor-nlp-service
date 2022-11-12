@@ -1,0 +1,17 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_number_lymph_nodes_examined",
+    "display_name": "Lymph Nodes Examined",
+    "abstractor_object_type": "number",
+    "preferred_name": "lymph nodes examined",
+    "predicate_variants": [
+      {
+        "value": "number of lymph nodes examined"
+      },
+      {
+        "value": "total lymph nodes"
+      }
+    ],
+    "object_values": []
+  }
+}

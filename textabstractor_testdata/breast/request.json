@@ -1,0 +1,225 @@
+{
+  "source_id": 2823317,
+  "source_type": "NoteStableIdentifier",
+  "source_method": "note_text",
+  "abstractor_rules_uri": "http://localhost:8000/abstractor_rules.json",
+  "text": "A: Breast, right, ultrasound-guided biopsy at 3:00, 3 cm from nipple:    \n Invasive ductal carcinoma, Nottingham grade 2.   \n Note: See comment.   \n",
+  "namespace_type": "Abstractor::AbstractorNamespace",
+  "namespace_id": 48,
+  "note_abstractor_suggestions_uri": "http://localhost:8000/abstractor_abstractions.json",
+  "abstractor_abstraction_schemas": [
+    {
+      "abstractor_abstraction_schema_id": 285,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/285.json",
+      "abstractor_abstraction_id": 2354044,
+      "abstractor_abstraction_source_id": 671,
+      "abstractor_subject_id": 671,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:36:46Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 286,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/286.json",
+      "abstractor_abstraction_id": 2354045,
+      "abstractor_abstraction_source_id": 672,
+      "abstractor_subject_id": 672,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 287,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/287.json",
+      "abstractor_abstraction_id": 2354046,
+      "abstractor_abstraction_source_id": 673,
+      "abstractor_subject_id": 673,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 288,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/288.json",
+      "abstractor_abstraction_id": 2354047,
+      "abstractor_abstraction_source_id": 674,
+      "abstractor_subject_id": 674,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 289,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/289.json",
+      "abstractor_abstraction_id": 2354048,
+      "abstractor_abstraction_source_id": 675,
+      "abstractor_subject_id": 675,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 290,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/290.json",
+      "abstractor_abstraction_id": 2354049,
+      "abstractor_abstraction_source_id": 676,
+      "abstractor_subject_id": 676,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 291,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/291.json",
+      "abstractor_abstraction_id": 2354051,
+      "abstractor_abstraction_source_id": 678,
+      "abstractor_subject_id": 678,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:37:10Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 292,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/292.json",
+      "abstractor_abstraction_id": 2354054,
+      "abstractor_abstraction_source_id": 681,
+      "abstractor_subject_id": 681,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "number",
+      "updated_at": "2021-12-29T15:37:11Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 293,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/293.json",
+      "abstractor_abstraction_id": 2354055,
+      "abstractor_abstraction_source_id": 682,
+      "abstractor_subject_id": 682,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:37:11Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 294,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/294.json",
+      "abstractor_abstraction_id": 2354056,
+      "abstractor_abstraction_source_id": 683,
+      "abstractor_subject_id": 683,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:37:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 295,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/295.json",
+      "abstractor_abstraction_id": 2354057,
+      "abstractor_abstraction_source_id": 684,
+      "abstractor_subject_id": 684,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:37:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 296,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/296.json",
+      "abstractor_abstraction_id": 2354058,
+      "abstractor_abstraction_source_id": 685,
+      "abstractor_subject_id": 685,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:37:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 297,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/297.json",
+      "abstractor_abstraction_id": 2354059,
+      "abstractor_abstraction_source_id": 686,
+      "abstractor_subject_id": 686,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:37:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 298,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/298.json",
+      "abstractor_abstraction_id": 2354060,
+      "abstractor_abstraction_source_id": 687,
+      "abstractor_subject_id": 687,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2021-12-29T15:37:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 299,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/299.json",
+      "abstractor_abstraction_id": 2354061,
+      "abstractor_abstraction_source_id": 687,
+      "abstractor_subject_id": 687,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "date",
+      "updated_at": "2021-12-29T15:37:12Z"
+    }
+  ],
+  "abstractor_sections": [
+    {
+      "name": "SPECIMEN",
+      "section_mention_type": "Alphabetic",
+      "section_name_variants": [
+
+      ]
+    },
+    {
+      "name": "COMMENT",
+      "section_mention_type": "Token",
+      "section_name_variants": [
+        {
+          "name": "Comment"
+        },
+        {
+          "name": "Comments"
+        },
+        {
+          "name": "Note"
+        },
+        {
+          "name": "Notes"
+        },
+        {
+          "name": "Additional comment"
+        },
+        {
+          "name": "Additional comments"
+        }
+      ]
+    }
+  ]
+}

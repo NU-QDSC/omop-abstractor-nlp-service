@@ -1,0 +1,14 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_prostate_weight",
+    "display_name": "prostate weight",
+    "abstractor_object_type": "number",
+    "preferred_name": "prostate weight",
+    "predicate_variants": [
+      {
+        "value": "weight"
+      }
+    ],
+    "object_values": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_site_laterality",
+    "display_name": "Laterality",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "laterality",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "bilateral",
+        "properties": null,
+        "vocabulary_code": "bilateral",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": []
+      },
+      {
+        "value": "left",
+        "properties": null,
+        "vocabulary_code": "left",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": []
+      },
+      {
+        "value": "right",
+        "properties": null,
+        "vocabulary_code": "right",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": []
+      }
+    ]
+  }
+}

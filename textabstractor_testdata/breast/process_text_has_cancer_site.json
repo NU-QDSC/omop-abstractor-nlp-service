@@ -1,0 +1,50 @@
+{
+  "sentences": [
+    {
+      "sentence_number": 0,
+      "begin": 0,
+      "end": 10
+    },
+    {
+      "sentence_number": 1,
+      "begin": 11,
+      "end": 25
+    }
+  ],
+  "sections": [
+    {
+      "section_number": 0,
+      "begin": 0,
+      "end": 5,
+      "begin_header": 0,
+      "end_header": 5,
+      "section_name": "SPECIMEN"
+    },
+    {
+      "section_number": 1,
+      "begin": 30,
+      "end": 38,
+      "begin_header": 30,
+      "end_header": 38,
+      "section_name": "COMMENT"
+    }
+  ],
+  "suggestions": [
+    {
+      "predicate": "has_cancer_site",
+      "begin": 20,
+      "end": 33,
+      "type": "value",
+      "value": "lower-inner quadrant of breast (c50.3)",
+      "assertion": "present"
+    },
+    {
+      "predicate": "has_cancer_site",
+      "begin": 44,
+      "end": 49,
+      "type": "value",
+      "value": "nipple (c50.0)",
+      "assertion": "absent"
+    }
+  ]
+}

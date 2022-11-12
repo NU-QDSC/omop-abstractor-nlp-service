@@ -1,0 +1,231 @@
+{
+  "source_id": 2268090,
+  "source_type": "NoteStableIdentifier",
+  "source_method": "note_text",
+  "note_abstractor_suggestions_uri": "http://localhost:3000/note_stable_identifiers/2268090/abstractor_suggestions.json",
+  "abstractor_rules_uri": "http://localhost:3000/abstractor_rules.json",
+  "text": "A. Prostate and seminal vesicles, radical prostatectomy:\n? Prostatic adenocarcinoma, Gleason score 4+3=7 (Grade Group III, 50% Gleason 4 component), 10% Gleason 5 tertiary component, limited to the prostate.\n? Tumor is bilateral and involves 20% of prostatic tissue examined.\n? Lymphovascular and perineural invasion is identified.\n? All surgical margins and right and left seminal vesicles are negative for tumor.\n\nB. Right external iliac lymph node, dissection:\n? Twenty lymph nodes, negative for carcinoma (0/20).\n\nC. Left external iliac lymph node, dissection:\n? Two lymph nodes, negative for carcinoma (0/2).\n\nD. Anterior fat pad, excision:\n? Adipose tissue, negative for carcinoma.\n\nPROSTATIC CANCER STAGING SUMMARY\nProcedure: Radical prostatectomy; Lymph node dissection\nProstate:\nWeight: 57.7 g\nSize: 5.4 x 4.3 x 3.5 cm\nTumor Type: Acinar adenocarcinoma\nGleason Score: 7\nPrimary + Secondary: 4+3\nTertiary: 5\nGrade Group Grade Group III, 50% Gleason 4 component\nLocation of main tumor: Right lobe, 1.3 cm\nLocation of additional tumor nodules: Left lobe\nExtraprostatic Extension (In Fat): Not identified\nFocal (\u003c2 Microscopic Foci): N/A\nEstablished (Extensive): N/A\nBladder neck invasion: Not identified\nMargins: Negative\nLimited (\u003c3 mm): N/A\nNon-limited (?3 mm): N/A\nList all margins involved N/A\nBenign glands at surgical margin: Not identified\nTreatment Effect: N/A\nLymphovascular Invasion: Present\nPerineural Invasion: Present\nSeminal Vesicles: Negative for carcinoma\nLocation, If Involved: N/A\nTotal Lymph Nodes: 22\nNumber positive: 0\nExtranodal extension: N/A\nDiameter of largest lymph node metastasis: N/A\nTumor Volume: 20%\n\nAmerican Joint Committee on Cancer (8th ed.) Tumor-Nodes-Metastasis (TNM) staging for prostate cancer:\nTumor (T): pT2 Organ confined\nNodes (N): pN0 No positive regional nodes\n\n\nAJCC 8th ed. Pathologic Staging:\npT2 Organ confined\npT3 Extraprostatic extension\npT3a Extraprostatic extension (unilateral or bilateral) or microscopic invasion of bladder neck\npT3b Tumor invades seminal vesicle(s)\npT4 Tumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall\npNx Regional nodes were not assessed\npN0 No positive regional nodes\npN1 Metastases in regional node(s)",
+  "namespace_type": "Abstractor::AbstractorNamespace",
+  "namespace_id": 372,
+  "abstractor_abstraction_schemas": [
+    {
+      "abstractor_abstraction_schema_id": 2055,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2055.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703501/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703501,
+      "abstractor_abstraction_source_id": 4838,
+      "abstractor_subject_id": 4841,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2022-07-14T12:44:12Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2056,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2056.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703502/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703502,
+      "abstractor_abstraction_source_id": 4839,
+      "abstractor_subject_id": 4842,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2022-07-14T12:44:13Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2057,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2057.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703503/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703503,
+      "abstractor_abstraction_source_id": 4840,
+      "abstractor_subject_id": 4843,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "number",
+      "updated_at": "2022-07-14T12:44:13Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2058,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2058.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703504/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703504,
+      "abstractor_abstraction_source_id": 4841,
+      "abstractor_subject_id": 4844,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:13Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2059,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2059.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703505/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703505,
+      "abstractor_abstraction_source_id": 4842,
+      "abstractor_subject_id": 4845,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2022-07-14T12:44:13Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2060,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2060.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703506/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703506,
+      "abstractor_abstraction_source_id": 4843,
+      "abstractor_subject_id": 4846,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2022-07-14T12:44:13Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2061,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2061.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703507/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703507,
+      "abstractor_abstraction_source_id": 4844,
+      "abstractor_subject_id": 4847,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2062,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2062.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703508/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703508,
+      "abstractor_abstraction_source_id": 4845,
+      "abstractor_subject_id": 4848,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2063,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2063.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703509/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703509,
+      "abstractor_abstraction_source_id": 4846,
+      "abstractor_subject_id": 4849,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2064,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2064.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703510/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703510,
+      "abstractor_abstraction_source_id": 4847,
+      "abstractor_subject_id": 4850,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2065,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2065.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703511/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703511,
+      "abstractor_abstraction_source_id": 4848,
+      "abstractor_subject_id": 4851,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2066,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2066.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703512/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703512,
+      "abstractor_abstraction_source_id": 4849,
+      "abstractor_subject_id": 4852,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "radio button list",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2067,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2067.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703513/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703513,
+      "abstractor_abstraction_source_id": 4850,
+      "abstractor_subject_id": 4853,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "number",
+      "updated_at": "2022-07-14T12:44:14Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 2068,
+      "abstractor_abstraction_schema_uri": "http://localhost:3000/abstractor_abstraction_schemas/2068.json",
+      "abstractor_abstraction_abstractor_suggestions_uri": "http://localhost:3000/abstractor_abstractions/703514/abstractor_suggestions.json",
+      "abstractor_abstraction_id": 703514,
+      "abstractor_abstraction_source_id": 4851,
+      "abstractor_subject_id": 4854,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 372,
+      "abstractor_rule_type": "name/value",
+      "abstractor_object_type": "number",
+      "updated_at": "2022-07-14T12:44:14Z"
+    }
+  ],
+  "abstractor_sections": [
+    {
+      "name": "SPECIMEN",
+      "section_mention_type": "Alphabetic",
+      "section_name_variants": []
+    },
+    {
+      "name": "COMMENT",
+      "section_mention_type": "Token",
+      "section_name_variants": [
+        {
+          "name": "Comment"
+        },
+        {
+          "name": "Comments"
+        },
+        {
+          "name": "Note"
+        },
+        {
+          "name": "Notes"
+        },
+        {
+          "name": "Additional comment"
+        },
+        {
+          "name": "Additional comments"
+        },
+        {
+          "name": "prostatic cancer staging summary"
+        },
+        {
+          "name": "PROSTATIC CANCER STAGING SUMMARY"
+        }
+      ]
+    }
+  ]
+}

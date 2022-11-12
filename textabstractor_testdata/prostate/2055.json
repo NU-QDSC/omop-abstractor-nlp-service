@@ -1,0 +1,291 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_histology",
+    "display_name": "Histology",
+    "abstractor_object_type": "list",
+    "preferred_name": "cancer histology",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "small cell carcinoma (8041/3)",
+        "properties": null,
+        "vocabulary_code": "8041/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "small cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "reserve cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "round cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "small cell neuroendocrine carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "small cell carcinoma, pulmonary type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "pulmonary type small cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "small cell carcinoma pulmonary type",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "intraductal carcinoma, noninfiltrating (8500/2)",
+        "properties": null,
+        "vocabulary_code": "8500/2",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "intraductal carcinoma, noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noninfiltrating intraductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal carcinoma noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal adenocarcinoma, noninfiltrating, nos",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noninfiltrating intraductal adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal adenocarcinoma noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma in situ",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "dcis",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "din 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal intraepithelial neoplasia 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cystic hypersecretory carcinoma, intraductal",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal cystic hypersecretory carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cystic hypersecretory carcinoma intraductal",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct carcinoma in-situ",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "adenocarcinoma (8140/3)",
+        "properties": null,
+        "vocabulary_code": "8140/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma, usual type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "usual type adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma usual type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoma of skene, cowper and littre glands",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cowper and littre glands carcinoma of skene",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoma of skene cowper and littre glands",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "endolymphatic sac tumor",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "parathyroid carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "acinar adenocarcinoma of prostate",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "infiltrating duct carcinoma (8500/3)",
+        "properties": null,
+        "vocabulary_code": "8500/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "infiltrating duct carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "invasive breast carcinoma of no special type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating duct adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "basal-like carcinoma of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma of mammary gland type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma of anogenital mammary-like glands",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoma of the male breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating ductal adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating adenocarcinoma, ductal type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal type infiltrating adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating adenocarcinoma ductal type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "invasive ductal adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "invasive adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma, ductal type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal type adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma ductal type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma, ductal-type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal-type adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma ductal-type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma, grade 2, ductal type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal type grade 2 adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma grade 2 ductal type",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

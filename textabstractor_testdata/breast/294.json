@@ -1,0 +1,473 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "pathological_nodes_staging_category",
+    "display_name": "pN Category",
+    "abstractor_object_type": "list",
+    "preferred_name": "pN",
+    "predicate_variants": [
+      {
+        "value": "staging"
+      },
+      {
+        "value": "stage"
+      },
+      {
+        "value": "node"
+      },
+      {
+        "value": "nodes (n)"
+      },
+      {
+        "value": "nodes(n)"
+      },
+      {
+        "value": "nodes (n):"
+      },
+      {
+        "value": "nodes(n):"
+      },
+      {
+        "value": "node (n)"
+      },
+      {
+        "value": "node(n)"
+      },
+      {
+        "value": "node (n):"
+      },
+      {
+        "value": "node(n):"
+      }
+    ],
+    "object_values": [
+      {
+        "value": "pN1a",
+        "properties": null,
+        "vocabulary_code": "pN1a",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN1a",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N1a",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N1a",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN1b",
+        "properties": null,
+        "vocabulary_code": "pN1b",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN1b",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N1b",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N1b",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN1c",
+        "properties": null,
+        "vocabulary_code": "pN1c",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN1c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N1c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N1c",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN3c",
+        "properties": null,
+        "vocabulary_code": "pN3c",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN3c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N3c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N3c",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypNX",
+        "properties": null,
+        "vocabulary_code": "ypNX",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypNX",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yNX",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yNX",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN0",
+        "properties": null,
+        "vocabulary_code": "ypN0",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN0",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN0",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN0",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN0 (i+)",
+        "properties": null,
+        "vocabulary_code": "ypN0 (i+)",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN0i+",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN0i+",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN0 (mol+)",
+        "properties": null,
+        "vocabulary_code": "ypN0 (mol+)",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_YpN0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN0mol+",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN0mol+",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pNX",
+        "properties": null,
+        "vocabulary_code": "pNX",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pNX",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "NX",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_NX",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN1mi",
+        "properties": null,
+        "vocabulary_code": "ypN1mi",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN1mi",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN1mi",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN1mi",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN0",
+        "properties": null,
+        "vocabulary_code": "pN0",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN0",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N0",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N0",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN1a",
+        "properties": null,
+        "vocabulary_code": "ypN1a",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN1a",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN1a",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN1a",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN0 (i+)",
+        "properties": null,
+        "vocabulary_code": "pN0 (i+)",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N0 (i+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N0i+",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N0i+",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN1b",
+        "properties": null,
+        "vocabulary_code": "ypN1b",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN1b",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN1b",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN1b",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN0 (mol+)",
+        "properties": null,
+        "vocabulary_code": "pN0 (mol+)",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N0 (mol+)",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N0mol+",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N0mol+",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "pN1mi",
+        "properties": null,
+        "vocabulary_code": "pN1mi",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_pN1mi",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "N1mi",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_N1mi",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN1c",
+        "properties": null,
+        "vocabulary_code": "ypN1c",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN1c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN1c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN1c",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "ypN3c",
+        "properties": null,
+        "vocabulary_code": "ypN3c",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "_ypN3c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yN3c",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "_yN3c",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

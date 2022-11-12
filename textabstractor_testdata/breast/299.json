@@ -1,0 +1,17 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_surgery_date",
+    "display_name": "Surgery Date",
+    "abstractor_object_type": "date",
+    "preferred_name": "Surgery Date",
+    "predicate_variants": [
+      {
+        "value": "collected"
+      },
+      {
+        "value": "collected on"
+      }
+    ],
+    "object_values": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_number_lymph_nodes_positive_tumor",
+    "display_name": "Lymph Nodes Positive Tumor",
+    "abstractor_object_type": "number",
+    "preferred_name": "lymph nodes positive tumor",
+    "predicate_variants": [
+      {
+        "value": "number positive"
+      },
+      {
+        "value": "number of lymph nodes involved"
+      }
+    ],
+    "object_values": []
+  }
+}

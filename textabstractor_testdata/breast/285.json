@@ -1,0 +1,739 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_histology",
+    "display_name": "Histology",
+    "abstractor_object_type": "list",
+    "preferred_name": "cancer histology",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "secretory carcinoma (8502/3)",
+        "properties": null,
+        "vocabulary_code": "8502/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "secretory carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "juvenile carcinoma of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "infiltrating duct and lobular carcinoma (8522/3)",
+        "properties": null,
+        "vocabulary_code": "8522/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "infiltrating duct and lobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "lobular and ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal and lobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating duct and lobular carcinoma in situ",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating lobular carcinoma and ductal carcinoma in situ",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "adenoid cystic carcinoma (8200/3)",
+        "properties": null,
+        "vocabulary_code": "8200/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "adenoid cystic carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cylindroma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cylindroid adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma cylindroid",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocystic carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cylindroid bronchial adenoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "bronchial adenoma cylindroid",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "thymic carcinoma with adenoid cystic carcinoma-like features",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "mucinous adenocarcinoma (8480/3)",
+        "properties": null,
+        "vocabulary_code": "8480/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "mucinous adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucinous variant acinar adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "acinar adenocarcinoma mucinous variant",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "colloid adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "colloid carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "gelatinous adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "gelatinous carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucinous carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucoid adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucoid carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucous adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucous carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "pseudomyxoma peritonei with unknown primary site",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucinous tubular and spindle cell carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "intraductal papillary adenocarcinoma with invasion (8503/3)",
+        "properties": null,
+        "vocabulary_code": "8503/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "intraductal papillary adenocarcinoma with invasion",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating papillary adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating and papillary adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "papillary carcinoma of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal papillary neoplasm with associated invasive carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intracystic papillary neoplasm with associated invasive carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "cribriform carcinoma (8201/3)",
+        "properties": null,
+        "vocabulary_code": "8201/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "cribriform carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cribriform type ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma cribriform type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cribriform comedo type carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cribriform comedo type adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma cribriform comedo type",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "tubular adenocarcinoma (8211/3)",
+        "properties": null,
+        "vocabulary_code": "8211/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "tubular adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "tubular carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "paget disease, mammary (8540/3)",
+        "properties": null,
+        "vocabulary_code": "8540/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "paget disease, mammary",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mammary paget disease",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "paget disease mammary",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "paget disease of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "paget disease of nipple",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "signet ring cell carcinoma (8490/3)",
+        "properties": null,
+        "vocabulary_code": "8490/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "signet ring cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "signet ring cell adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "signet ring-like variant acinar adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "acinar adenocarcinoma signet ring-like variant",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "signet ring cell type mucinous carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mucinous carcinoma signet ring cell type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "poorly cohesive carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "signet ring cell/histiocytoid carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "encapsulated papillary carcinoma (8504/2)",
+        "properties": null,
+        "vocabulary_code": "8504/2",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "encapsulated papillary carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noninfiltrating intracystic carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "encysted papillary carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intracystic papillary carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intracystic carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intracystic papillary adenocarcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "metaplastic carcinoma (8575/3)",
+        "properties": null,
+        "vocabulary_code": "8575/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "metaplastic carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "encapsulated papillary carcinoma with invasion (8504/3)",
+        "properties": null,
+        "vocabulary_code": "8504/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "encapsulated papillary carcinoma with invasion",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "encysted papillary carcinoma with invasion",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intracystic papillary carcinoma with invasion",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "neuroendocrine tumor (8240/3)",
+        "properties": null,
+        "vocabulary_code": "8240/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "neuroendocrine tumor",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoid tumor",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoid",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoid bronchial adenoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "bronchial adenoma carcinoid",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "low grade neuroendocrine carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine carcinoma low grade",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "well differentiated neuroendocrine carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine carcinoma well differentiated",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "grade 1 neuroendocrine tumor",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine tumor grade 1",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "typical carcinoid",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "invasive micropapillary carcinoma of breast (8507/3)",
+        "properties": null,
+        "vocabulary_code": "8507/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "invasive micropapillary carcinoma of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "micropapillary carcinoma of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "solid papillary carcinoma in situ (8509/2)",
+        "properties": null,
+        "vocabulary_code": "8509/2",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "solid papillary carcinoma in situ",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "endocrine mucin-producing sweat gland carcinoma in situ",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "intraductal carcinoma, noninfiltrating (8500/2)",
+        "properties": null,
+        "vocabulary_code": "8500/2",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "intraductal carcinoma, noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noninfiltrating intraductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal carcinoma noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noninfiltrating intraductal adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal adenocarcinoma noninfiltrating",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma in situ",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "dcis",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "din 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal intraepithelial neoplasia 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "intraductal cystic hypersecretory carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "cystic hypersecretory carcinoma intraductal",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma in-situ",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "neuroendocrine carcinoma (8246/3)",
+        "properties": null,
+        "vocabulary_code": "8246/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "neuroendocrine carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "poorly differentiated neuroendocrine neoplasm",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine ca",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine cancer",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine carcinomas",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine neoplasm",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine tumor",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neuroendocrine tumour",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "glycogen-rich carcinoma (8315/3)",
+        "properties": null,
+        "vocabulary_code": "8315/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "glycogen-rich carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "glycogen-rich clear cell carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "apocrine adenocarcinoma (8401/3)",
+        "properties": null,
+        "vocabulary_code": "8401/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "apocrine adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "apocrine carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "solid papillary carcinoma with invasion (8509/3)",
+        "properties": null,
+        "vocabulary_code": "8509/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "solid papillary carcinoma with invasion",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "endocrine mucin-producing sweat gland carcinoma",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "lobular carcinoma (8520/3)",
+        "properties": null,
+        "vocabulary_code": "8520/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "lobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating lobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "lobular adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "tubulolobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "pleomorphic lobular carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "lobular carcinoma pleomorphic",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "infiltrating duct carcinoma (8500/3)",
+        "properties": null,
+        "vocabulary_code": "8500/3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "infiltrating duct carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "invasive ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "invasive breast carcinoma of no special type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "ductal carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "duct cell carcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "infiltrating duct adenocarcinoma",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "basal-like carcinoma of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma of mammary gland type",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "adenocarcinoma of anogenital mammary-like glands",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "carcinoma of the male breast",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

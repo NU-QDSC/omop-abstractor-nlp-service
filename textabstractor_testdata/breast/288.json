@@ -1,0 +1,53 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_pathologic_sbr_grade",
+    "display_name": "Pathologic Scarff-Bloom-Richardson Grade",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "grade",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "Grade 1",
+        "properties": null,
+        "vocabulary_code": "Grade 1",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "Grade I",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "Grade 2",
+        "properties": null,
+        "vocabulary_code": "Grade 2",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "Grade II",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "Grade 3",
+        "properties": null,
+        "vocabulary_code": "Grade 3",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "Grade III",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

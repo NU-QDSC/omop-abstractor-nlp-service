@@ -1,0 +1,131 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_perineural_invasion",
+    "display_name": "Perineural Invasion",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "perineural invasion",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "not identified",
+        "properties": null,
+        "vocabulary_code": "not identified",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "no",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "none",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "absent",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "negative",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not involved",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not involving",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "free",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "benign",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not demonstrated",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not established",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not observed",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not seen",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "no evidence",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "present",
+        "properties": null,
+        "vocabulary_code": "present",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "identified",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "establish",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "established",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "demonstrated",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "noted",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "positive",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "involved",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "involving",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "yes",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "extensive",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "seen",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "confirms",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

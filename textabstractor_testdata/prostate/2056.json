@@ -1,0 +1,33 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_site",
+    "display_name": "Site",
+    "abstractor_object_type": "list",
+    "preferred_name": "cancer site",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "prostate gland (c61.9)",
+        "properties": null,
+        "vocabulary_code": "C61.9",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "prostate gland",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "prostate",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "prostatic",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

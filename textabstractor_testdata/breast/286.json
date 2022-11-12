@@ -1,0 +1,169 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_cancer_site",
+    "display_name": "Site",
+    "abstractor_object_type": "list",
+    "preferred_name": "cancer site",
+    "predicate_variants": [],
+    "object_values": [
+      {
+        "value": "overlapping lesion of breast (c50.8)",
+        "properties": null,
+        "vocabulary_code": "C50.8",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "overlapping lesion of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "upper breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "outer breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "inner breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "lower breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "midline of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "breast (c50.9)",
+        "properties": null,
+        "vocabulary_code": "C50.9",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "mammary gland",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "nipple (c50.0)",
+        "properties": null,
+        "vocabulary_code": "C50.0",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "nipple",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "areola",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "central portion of breast (c50.1)",
+        "properties": null,
+        "vocabulary_code": "C50.1",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "central portion of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "upper-inner quadrant of breast (c50.2)",
+        "properties": null,
+        "vocabulary_code": "C50.2",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "upper-inner quadrant of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "lower-inner quadrant of breast (c50.3)",
+        "properties": null,
+        "vocabulary_code": "C50.3",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "lower-inner quadrant of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "upper-outer quadrant of breast (c50.4)",
+        "properties": null,
+        "vocabulary_code": "C50.4",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "upper-outer quadrant of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "lower-outer quadrant of breast (c50.5)",
+        "properties": null,
+        "vocabulary_code": "C50.5",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "lower-outer quadrant of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "axillary tail of breast (c50.6)",
+        "properties": null,
+        "vocabulary_code": "C50.6",
+        "vocabulary": "ICD-O-3.2",
+        "vocabulary_version": "2019 ICD-O-3.2",
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "axillary tail of breast",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "tail of breast",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_tumor_size",
+    "display_name": "tumor size",
+    "abstractor_object_type": "number",
+    "preferred_name": "tumor size",
+    "predicate_variants": [
+      {
+        "value": "tumor extent"
+      }
+    ],
+    "object_values": []
+  }
+}

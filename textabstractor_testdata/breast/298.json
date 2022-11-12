@@ -1,0 +1,70 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_her2_status",
+    "display_name": "HER2 Status",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "her2",
+    "predicate_variants": [
+      {
+        "value": "her2/neu"
+      },
+      {
+        "value": "her-2/neu"
+      },
+      {
+        "value": "erbb2"
+      },
+      {
+        "value": "cd340"
+      },
+      {
+        "value": "tyrosine-protein kinase erbb-2"
+      },
+      {
+        "value": "proto-oncogene neu"
+      }
+    ],
+    "object_values": [
+      {
+        "value": "positive",
+        "properties": null,
+        "vocabulary_code": "positive",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "yes",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "pos.",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "affirmative",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "negative",
+        "properties": null,
+        "vocabulary_code": "negative",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "no",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neg.",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

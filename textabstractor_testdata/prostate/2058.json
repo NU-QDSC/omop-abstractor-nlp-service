@@ -1,0 +1,252 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_gleason_score_grade",
+    "display_name": "Gleason Score Grade",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "gleason score grade",
+    "predicate_variants": [
+      {
+        "value": "gleason score"
+      },
+      {
+        "value": "primary + secondary"
+      }
+    ],
+    "object_values": [
+      {
+        "value": "3+3",
+        "properties": null,
+        "vocabulary_code": "3+3",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "3 + 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3+3=6",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 3 = 6",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 3=6",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "3+4",
+        "properties": null,
+        "vocabulary_code": "3+4",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "3 + 4",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3+4=7",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 4 = 7",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 4=7",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "4+3",
+        "properties": null,
+        "vocabulary_code": "4+3",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "4 + 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4+3=7",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 3 = 7",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 3=7",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "4+4",
+        "properties": null,
+        "vocabulary_code": "4+4",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "4 + 4",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4+4=8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 4 = 8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 4=8",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "3+5",
+        "properties": null,
+        "vocabulary_code": "3+5",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "3 + 5",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3+5=8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 5 = 8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "3 + 5=8",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "5+3",
+        "properties": null,
+        "vocabulary_code": "5+3",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "5 + 3",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5+3=8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 3 = 8",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 3=8",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "4+5",
+        "properties": null,
+        "vocabulary_code": "4+5",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "4 + 5",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4+5=9",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 5 = 9",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "4 + 5=9",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "5+4",
+        "properties": null,
+        "vocabulary_code": "5+4",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "5 + 4",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5+4=9",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 4 = 9",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 4=9",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "5+5",
+        "properties": null,
+        "vocabulary_code": "5+5",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "5 + 5",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5+5=10",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 5 = 10",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "5 + 5=10",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

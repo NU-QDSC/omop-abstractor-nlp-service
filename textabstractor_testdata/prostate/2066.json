@@ -1,0 +1,79 @@
+{
+  "abstractor_abstraction_schema": {
+    "predicate": "has_margin_status",
+    "display_name": "Margin Status",
+    "abstractor_object_type": "radio button list",
+    "preferred_name": "margin",
+    "predicate_variants": [
+      {
+        "value": "margins"
+      }
+    ],
+    "object_values": [
+      {
+        "value": "positive",
+        "properties": null,
+        "vocabulary_code": "positive",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "yes",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "pos.",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "affirmative",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "involved",
+            "case_sensitive": "false"
+          }
+        ]
+      },
+      {
+        "value": "negative",
+        "properties": null,
+        "vocabulary_code": "negative",
+        "vocabulary": null,
+        "vocabulary_version": null,
+        "case_sensitive": "false",
+        "object_value_variants": [
+          {
+            "value": "no",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "neg.",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "uninvolved",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "uninvolving",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "free",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not involved",
+            "case_sensitive": "false"
+          },
+          {
+            "value": "not involving",
+            "case_sensitive": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

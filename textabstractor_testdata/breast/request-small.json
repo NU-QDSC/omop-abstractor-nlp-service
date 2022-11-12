@@ -1,0 +1,44 @@
+{
+  "source_id": 2823317,
+  "source_type": "NoteStableIdentifier",
+  "source_method": "note_text",
+  "abstractor_rules_uri": "http://localhost:8000/abstractor_rules.json",
+  "text": "A: Breast, right, ultrasound-guided biopsy at 3:00, 3 cm from nipple: \nInvasive ductal carcinoma, Nottingham grade 2.",
+  "namespace_type": "Abstractor::AbstractorNamespace",
+  "namespace_id": 48,
+  "note_abstractor_suggestions_uri": "http://localhost:8000/abstractor_abstractions.json",
+  "abstractor_abstraction_schemas": [
+    {
+      "abstractor_abstraction_schema_id": 285,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/285.json",
+      "abstractor_abstraction_id": 2354044,
+      "abstractor_abstraction_source_id": 671,
+      "abstractor_subject_id": 671,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:36:46Z"
+    },
+    {
+      "abstractor_abstraction_schema_id": 286,
+      "abstractor_abstraction_schema_uri": "http://localhost:8000/abstractor_abstraction_schemas/286.json",
+      "abstractor_abstraction_id": 2354045,
+      "abstractor_abstraction_source_id": 672,
+      "abstractor_subject_id": 672,
+      "namespace_type": "Abstractor::AbstractorNamespace",
+      "namespace_id": 48,
+      "abstractor_rule_type": "value",
+      "abstractor_object_type": "list",
+      "updated_at": "2021-12-29T15:36:47Z"
+    }
+  ],
+  "abstractor_sections": [
+    {
+      "name": "SPECIMEN",
+      "section_mention_type": "Alphabetic",
+      "section_name_variants": [
+      ]
+    }
+  ]
+}
