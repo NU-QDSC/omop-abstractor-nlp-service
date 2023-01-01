@@ -48,6 +48,6 @@ setup(
             "coverage",
             "sphinx",
         ],
-        "test": ["pytest", "starlette"],
+        "test": ["pytest", "starlette", "httpx"],
     },
 )

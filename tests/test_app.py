@@ -8,7 +8,7 @@ from textabstractor.dataclasses import (
 
 def test_greeting(client):
     response = client.get("/")
-    assert response.ok is True
+    assert response.status_code == 200
     assert response.json() == {"msg": "OMOP Abstractor NLP Service"}
 
 
@@ -24,7 +24,7 @@ def test_get_abstraction_schema(client, schemas, suggest_request, monkeypatch):
 
     # test the web service api
     response = client.get(f"/abstractor_abstraction_schemas/{'285.json'}")
-    assert response.ok is True
+    assert response.status_code == 200
     schema = AbstractionSchema(**response.json())
     assert schema is not None
 
@@ -40,7 +40,7 @@ def test_accept_suggestions(client, suggestion_set):
         "/abstractor_abstractions.json",
         json=jsonable_encoder(suggestion_set),
     )
-    assert response.ok is True
+    assert response.status_code == 200
     assert response.json() == {
         "msg": f"accepted suggestions {suggestion_set.namespace_id}"
     }
