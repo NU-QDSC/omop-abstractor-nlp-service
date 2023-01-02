@@ -25,16 +25,16 @@ setup(
     python_requires=">=3.9.0",
     install_requires=[
         "fastapi[all]",
-        "celery[redis]",
+        # "celery[redis]",
         "typer[all]",
         "uvicorn",
         "requests",
         "pluggy",
         "importlib_resources",
-        "rich",
+        # "rich",
         "httptools",
         "tinydb",
-        "flower"
+        # "flower"
     ],
     extras_require={
         "interactive": ["jupyterlab", "rise"],

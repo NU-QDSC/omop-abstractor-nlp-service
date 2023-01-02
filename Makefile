@@ -74,7 +74,7 @@ dist: clean ## builds source and wheel package
 	ls -l dist
 
 install: clean ## install the package to the active Python's site-packages
-	python setup.py
+	pip install .
 
 start-service:
 	uvicorn textabstractor.main:app
