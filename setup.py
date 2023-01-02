@@ -22,7 +22,7 @@ setup(
     ),
     package_data={"": ["*.json"]},
     include_package_data=True,
-    python_requires=">=3.8",
+    python_requires=">=3.9.0",
     install_requires=[
         "fastapi[all]",
         "celery[redis]",
