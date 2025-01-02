@@ -34,6 +34,7 @@ setup(
         # "rich",
         "httptools",
         "tinydb",
+        'pydantic>=1.10.0,<2.0.0',
         # "flower"
     ],
     extras_require={
