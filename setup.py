@@ -24,7 +24,7 @@ setup(
     include_package_data=True,
     python_requires=">=3.9.0",
     install_requires=[
-        "fastapi[all]",
+        "fastapi[all]>=0.95.0,<0.100.0",
         # "celery[redis]",
         "typer[all]",
         "uvicorn",
